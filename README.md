@@ -203,3 +203,5 @@ MIT License
 </div>
 
 # PR Merge: 2025-10-23 - enhancement/merge-2416
+
+# PR Merge: 2025-10-23 - docs/merge-1250
