@@ -201,3 +201,5 @@ MIT License
 <div align="center">
 <sub>analytics that respects privacy</sub>
 </div>
+
+# PR Merge: 2025-10-23 - enhancement/merge-2416
